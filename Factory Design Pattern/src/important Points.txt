@@ -1,0 +1,1 @@
+OS Factory class return the object we required ,it acts as a Factory which produces products(objects);

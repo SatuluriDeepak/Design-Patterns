@@ -1,0 +1,4 @@
+
+when to use ..?
+where u have a scenario we have ,
+to create a object which represents of tree structure
